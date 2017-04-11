@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.appian.deckofcards;
 
 import java.util.Random;

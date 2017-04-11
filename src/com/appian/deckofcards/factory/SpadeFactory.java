@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.appian.deckofcards.factory;
 
 import com.appian.deckofcards.card.Card;
